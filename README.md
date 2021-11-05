@@ -1,2 +1,3 @@
 # hello-word
-Just another repository
+Este es mi primer repository creado en Git Hub.
+Listo
